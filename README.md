@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Albadar2
+- 👋 Hi, I’m @Albadar
 - 👀 I’m interested in AI,Full Stack
 - 🌱 I’m currently learning Full Stack 
 - 💞️ I’m looking to collaborate on Projects 

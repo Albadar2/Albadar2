@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Albadar
-- 👀 I’m interested in AI,Full Stack
-- 🌱 I’m currently learning Full Stack 
+- 👀 I’m interested in AI,Data Science
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me ak0433@srmist.edu.in
 - 😄 Pronouns: He/Him
